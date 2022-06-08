@@ -1,0 +1,86 @@
+body {
+    height: 200vh;
+    width: 120vw;
+    margin: 30px;
+    background: linear-gradient(60deg,#ffffff,#0096bb)
+}
+#name {
+  font-size: 450%;   
+  border:solid;
+  border-top: 0px;
+  border-left:0px;
+  border-right:0px;
+}
+#contact{
+    padding:10px;
+    font-size: 150%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left: 5px;
+}
+#Personal-details{
+    font-size:80%;
+}
+#obj{
+    padding:10px;
+    font-size: 150%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left: 5px; 
+}
+#obj-description{
+    font-size:80%;
+}
+#ed{
+    padding:10px;
+    font-size: 150%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left: 5px; 
+}
+#inter{
+    font-size:80%;
+}
+#college{
+    font-size:80%;
+}
+#lang{
+    padding:10px;
+    font-size: 150%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left: 5px; 
+} 
+#skills{
+    padding:10px;
+    font-size: 150%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left:-2px; 
+    margin-bottom: 0px;
+} 
+.skills-section {
+    display: flex;
+    align-items: center;
+}
+.skill-lang{
+    font-size:120%;
+    font-family: 'Gill Sans', Calibri;
+    margin-left: 5px; 
+}
+#award-container{
+    padding:10px;
+    font-size: 150%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left: 5px; 
+}
+#award{
+    padding:10px;
+    font-size: 90%;
+    font-family: 'Gill Sans', Calibri;
+    margin:50px;
+    margin-left:-2px; 
+}  
+
+
